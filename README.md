@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Chandana 👋
 
-<!--
-**chandana-devs/chandana-devs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Graduate | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm passionate about technology and enjoy building practical applications that solve real-world problems. I'm interested in software development, web technologies, and continuously improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Skills
+
+- Java
+- Python
+- C / C++
+- HTML
+- CSS
+- JavaScript
+- MySQL
+- MongoDB
+- Node.js
+- Git & GitHub
+
+### 🚀 Projects
+
+- 🩸 **Blood Bank Management System**  
+  A web-based application designed to manage blood donors, recipients, blood inventory, requests, and reports.
+
+- 🌐 **Personal Portfolio**  
+  A personal website showcasing my skills, projects, education, and professional profile.
+
+### 🌱 Currently Learning
+
+- Full-Stack Development
+- Cloud Computing
+- Backend Development
+
+### 📫 Connect With Me
+
+- [LinkedIn](www.linkedin.com/in/chandana-g-bb600a289)
+- [Portfolio](https://github.com/chandana-devs/chandana_portpolio.git)
+- [GitHub](https://github.com/chandana-devs)
